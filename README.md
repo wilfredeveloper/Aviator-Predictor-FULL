@@ -21,8 +21,8 @@ This Tool shows you how many multipliers the lucky plane will fly to make it eas
 
 1. Download this repository as zip to your local machine.
 2. Go to the project folder.
-3. Open Project.
-4. Use the shortcut `Ctrl + Shift + B` to compile the project.
+3. Open the solution file (.sln).
+4. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
 
 ## Usage
 
